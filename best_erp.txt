@@ -1,0 +1,8 @@
+"""
+This erp is best and does everything
+"""
+
+def erp_do_all(teh_stuff):
+  print("best erp is best")
+  teh_stuff.do_all()
+  
